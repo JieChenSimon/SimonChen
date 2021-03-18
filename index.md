@@ -3,7 +3,7 @@
 VRLAB, Master Student.
 
 I am work on NLP, GNN, DL, ML, Interpretability.
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://github.com/JiechenJohn/JieChen/blob/gh-pages/1.jpg)
 
 ### MY PAPERS
 
