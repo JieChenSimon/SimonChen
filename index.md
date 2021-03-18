@@ -6,8 +6,7 @@ I am work on NLP, GNN, DL, ML, Interpretability.
 ![Image of Yaktocat](https://github.com/JiechenJohn/JieChen/blob/gh-pages/1.jpg)
 
 ### MY PAPERS
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 2020:ALBERT-based Named Entity Recognition of Chinese Medical Records
 
 ```MY PAPERS
 Syntax highlighted code block
