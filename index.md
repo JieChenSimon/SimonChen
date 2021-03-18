@@ -6,7 +6,7 @@ I am work on NLP, GNN, DL, ML, Interpretability.
 ![Image of Yaktocat](https://github.com/JiechenJohn/JieChen/blob/gh-pages/1.jpg)
 
 ### MY PAPERS
-- 2020:ALBERT-based Named Entity Recognition of Chinese Medical Records
+- 2020: ALBERT-based Named Entity Recognition of Chinese Medical Records
 
 ```MY PAPERS
 Syntax highlighted code block
