@@ -8,6 +8,8 @@ I am work on NLP, GNN, DL, ML, Interpretability.
 ### MY PAPERS
 - 2020: ALBERT-based Named Entity Recognition of Chinese Medical Records
 
+### MY PROJECTS
+- 2019: Develop Redash Business Intelligence System
 ```MY PAPERS
 Syntax highlighted code block
 
