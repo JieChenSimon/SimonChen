@@ -20,4 +20,4 @@ I am work on NLP, GNN, DL, ML, Interpretability.
 E-mail: <jie.chen@post.usts.edu.cn>  
 Blog：[CSDN](https://drchen.blog.csdn.net/)  
 Code Hosting Platform: [GitHub](https://github.com/JiechenJohn)  
-Travel blog: [WordPress](idiotprofessorchen.wordpress.com)
+Travel blog: [WordPress](https://idiotprofessorchen.wordpress.com/)
