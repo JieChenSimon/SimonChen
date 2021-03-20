@@ -11,7 +11,7 @@ I am work on NLP, GNN, DL, ML, Interpretability.
 
 ### MY PROJECTS
 - 2019: Develop Redash Business Intelligence System
-- 2019: Work with Hikvision and Tencent to develop Police Traffic Face Recognition System for SuZhou City
+- 2019: Work with [Hikvision](https://www.hikvision.com/en/) and [Tencent](https://www.tencent.com/zh-cn) to develop Police Traffic Face Recognition System for SuZhou City
 - 2020: Responsible for the VUE-based front end in the Dust Management System
 
 
