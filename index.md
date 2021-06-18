@@ -18,10 +18,12 @@ The ultimate goal of my research is to use mathematics to understand biological 
 - 2019: Work with [Hikvision](https://www.hikvision.com/en/) and [Tencent](https://www.tencent.com/zh-cn) to develop Police Traffic Face Recognition System for SuZhou City
 - 2020: Responsible for the VUE-based front end in the Dust Management System
 
+### Other PROJECTS
+Tec Blog：[CSDN](https://drchen.blog.csdn.net/), my blog has over 434k views 
+
 
 ### Support or Contact
 
 E-mail: <jie.chen@post.usts.edu.cn>  
-Blog：[CSDN](https://drchen.blog.csdn.net/)  
 Code Hosting Platform: [GitHub](https://github.com/JiechenJohn)  
 Travel blog: [WordPress](https://idiotprofessorchen.wordpress.com/)
