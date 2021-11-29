@@ -7,9 +7,9 @@ The ultimate goal of my research is to use mathematics to understand biological 
 
 
 ### MY PAPERS
-- 2020: ALBERT-based Named Entity Recognition of Chinese Medical Records (Journal of Nanjing Normal University,DOI:10.3969/j.issn.1672-1292.2021.01.006)
-- 2021: Randomly Wired Graph Neural Network for Chinese NER， IEEE/ACM Transactions on Audio, Speech and Language Processing, SCI- Q1.
-- 2021: RWGNN：Chinese NER Using Randomly Wired Graph Neural Network (Under Review)
+- 2020: Jie** **Chen**, X Xuefeng, P Zhou, VS Sheng, C Zhiming. ALBERT-based Named Entity Recognition of Chinese Medical Records (Journal of Nanjing Normal University,DOI:10.3969/j.issn.1672-1292.2021.01.006)
+- 2021: **Jie** **Chen,** X Xuefeng, VS Sheng, C Zhiming. Randomly Wired Graph Neural Network for Chinese NER， IEEE/ACM Transactions on Audio, Speech and Language Processing, SCI- Q1.
+- 2021: JiaBao Xu, **Jie** **Chen**, X Xuefeng, VS Sheng, C Zhiming. Development and Application of Electronic Health Records Based on Deep Learning. Journal of Ambient Intelligence and Humanized Computing. 
 
 ### MY PROJECTS
 - 2021: Internship in [Huawei Inc.](https://www.huawei.com/en/corporate-information) to develop deep learning framework -- MindSpore. (Undergoing)
