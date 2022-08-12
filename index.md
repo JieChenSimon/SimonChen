@@ -7,6 +7,8 @@ The ultimate goal of my research is to use mathematics to understand biological 
 
 
 ### MY PAPERS
+- 2022：**Jie** **Chen**, Jiabao Xu, X Xuefeng, VS Sheng, C Zhiming. Interpreting Randomly Wired Graph Models for Chinese NER, CMES, DOI: 10.32604/cmes.2022.020771)
+- 2022：刘杭, 殷歆, **陈杰**, 罗恒. 基于模型融合的多维时间序列预测,计算机工程(北大核心, CSCD), DOI：	10.19678/j.issn.1000-3428.0063718.
 - 2020: **Jie** **Chen**, X Xuefeng, P Zhou, VS Sheng, C Zhiming. ALBERT-based Named Entity Recognition of Chinese Medical Records (Journal of Nanjing Normal University,DOI:10.3969/j.issn.1672-1292.2021.01.006)
 - 2021: **Jie** **Chen,** X Xuefeng, VS Sheng, C Zhiming. Randomly Wired Graph Neural Network for Chinese NER， IEEE/ACM Transactions on Audio, Speech and Language Processing, SCI- Q1.
 - 2021: JiaBao Xu, **Jie** **Chen**, X Xuefeng, VS Sheng, C Zhiming. Development and Application of Electronic Health Records Based on Deep Learning. Journal of Ambient Intelligence and Humanized Computing. 
@@ -25,6 +27,6 @@ Tec Blog：[CSDN](https://drchen.blog.csdn.net/), my blog has over 434k views
 
 ### Support or Contact
 
-E-mail: <jie.chen@post.usts.edu.cn>  
+E-mail: <jiechensimon@seu.edu.cn>
 Code Hosting Platform: [GitHub](https://github.com/JiechenJohn)  
 Travel blog: [WordPress](https://idiotprofessorchen.wordpress.com/)
