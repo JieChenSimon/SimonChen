@@ -1,4 +1,8 @@
 ## Welcome to Chen‘s HomePage.
+<div align="center">
+    <img width="40%"  src="assets/img/catcoding.gif" alt="catcoding" />
+
+</div>
 
 Southeast University Ph.D candidate.
 
@@ -32,8 +36,5 @@ E-mail: <jiechensimon@seu.edu.cn>
 Code Hosting Platform: [GitHub](https://github.com/JiechenJohn)  
 Travel blog: [WordPress](https://idiotprofessorchen.wordpress.com/)
 
-<div align="center">
-    <img width="40%"  src="assets/img/catcoding.gif" alt="catcoding" />
 
-</div>
 
