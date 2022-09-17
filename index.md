@@ -1,4 +1,4 @@
-## Welcome to Chen‘s HomePage.
+## Welcome to SimonChen's HomePage.
 <div align="center">
     <img width="40%"  src="assets/img/catcoding.gif" alt="catcoding" />
 
