@@ -1,6 +1,6 @@
-title: Jie Chen
+title: SimonChen
 logo: /assets/img/selfie.png
 # description: Minimal is a theme for GitHub Pages.
 # show_downloads: true
-# google_analytics:
+google_analytics:ture
 theme: jekyll-theme-minimal
