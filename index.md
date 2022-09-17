@@ -32,7 +32,7 @@ Code Hosting Platform: [GitHub](https://github.com/JiechenJohn)
 Travel blog: [WordPress](https://idiotprofessorchen.wordpress.com/)
 
 <div align="center">
-    <img width="40%"  src="readme/img/catcoding.gif" alt="catcoding" />
+    <img width="40%"  src="assent/img/catcoding.gif" alt="catcoding" />
 
 </div>
 
