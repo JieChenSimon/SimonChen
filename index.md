@@ -32,7 +32,6 @@ Tec Blog：[CSDN](https://drchen.blog.csdn.net/), my blog has over 434k views
 ### Support or Contact
 
 E-mail: <jiechensimon@seu.edu.cn>
-
 Code Hosting Platform: [GitHub](https://github.com/JiechenJohn)  
 Travel blog: [WordPress](https://idiotprofessorchen.wordpress.com/)
 
