@@ -11,7 +11,8 @@ The ultimate goal of my research is to use mathematics to understand biological 
 
 
 ### MY PAPERS
-- 2022：**Jie** **Chen**, Jiabao Xu, X Xuefeng, VS Sheng, C Zhiming. Interpreting Randomly Wired Graph Models for Chinese NER, CMES, DOI: 10.32604/cmes.2022.020771)- - - 2022：刘杭, 殷歆, 陈杰**, 罗恒. 基于模型融合的多维时间序列预测,计算机工程(北大核心, CSCD), DOI：	10.19678/j.issn.1000-3428.0063718.
+- 2022：**Jie** **Chen**, Jiabao Xu, X Xuefeng, VS Sheng, C Zhiming. Interpreting Randomly Wired Graph Models for Chinese NER, CMES.
+- 2022：刘杭, 殷歆, 陈杰**, 罗恒. 基于模型融合的多维时间序列预测,计算机工程(北大核心, CSCD).
 - 2021: **Jie** **Chen,** X Xuefeng, VS Sheng, C Zhiming. Randomly Wired Graph Neural Network for Chinese NER， IEEE/ACM Transactions on Audio, Speech and Language Processing, SCI- Q1.
 - 2022: JiaBao Xu, X Xuefeng, **Jie** **Chen**,  VS Sheng, C Zhiming. Development and Application of Electronic Health Records Based on Deep Learning. Applied Sciences. SCI-Q2.
 - 2021: ZhaiYuan Cai, **Jie** **Chen**, X Xuefeng, VS Sheng, C Zhiming. Relational Semantic Entity Recognition of Electronic Medical Record. 苏州科技大学学报 (自然科学版), 2021. 
