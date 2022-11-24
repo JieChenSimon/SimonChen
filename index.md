@@ -17,6 +17,7 @@ The ultimate goal of my research is to use mathematics to understand biological 
 - 2022: JiaBao Xu, X Xuefeng, **Jie** **Chen**,  VS Sheng, C Zhiming. Development and Application of Electronic Health Records Based on Deep Learning. Applied Sciences. SCI-Q2.
 - 2021: ZhaiYuan Cai, **Jie** **Chen**, X Xuefeng, VS Sheng, C Zhiming. Relational Semantic Entity Recognition of Electronic Medical Record. 苏州科技大学学报 (自然科学版), 2021. 
 - 2020: **Jie** **Chen**, X Xuefeng, P Zhou, VS Sheng, C Zhiming. ALBERT-based Named Entity Recognition of Chinese Medical Records (Journal of Nanjing Normal University.
+
 ### MY PROJECTS
 - 2021: Internship in [Huawei Inc.](https://www.huawei.com/en/corporate-information) to develop deep learning framework -- MindSpore. (Undergoing)
 - 2021: Work with Dr.Zheng on Textual Description for Visualization. (Undergoing)
