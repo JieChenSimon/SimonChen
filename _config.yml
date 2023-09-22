@@ -5,3 +5,4 @@ logo: /assets/img/selfie.png
 # google_analytics
 theme: jekyll-theme-minimal
 search : true
+minimal_mistakes_skin: "contrast" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
