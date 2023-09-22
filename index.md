@@ -6,7 +6,7 @@
 
 Southeast University Ph.D candidate.
 
-E-mail: jiechensimon@seu dot edu dot cn | Publications: [Google Scholar](https://scholar.google.com/citations?user=29wfilcAAAAJ&hl=zh-CN)| Code Hosting Platform: [GitHub](https://github.com/JiechenSimon) | Travel blog: [WordPress](https://idiotprofessorchen.wordpress.com/)
+E-mail: jiechensimon@seu dot edu dot cn | Publications: [Google Scholar](https://scholar.google.com/citations?user=29wfilcAAAAJ&hl=zh-CN)| Code Hosting: [GitHub](https://github.com/JiechenSimon) | Travel blog: [WordPress](https://idiotprofessorchen.wordpress.com/)
 
 ### SOME INTERESTING THINGS
 Specialize in NLP, GNN, DL, ML, Data Mining, Interpretability, BlockChain. 
