@@ -1,6 +1,6 @@
 ## Welcome to SimonChen's HomePage.
 <div align="center">
-    <img width="40%"  src="assets/img/catcoding.gif" alt="catcoding" />
+    <img width="35%"  src="assets/img/catcoding.gif" alt="catcoding" />
 
 </div>
 
