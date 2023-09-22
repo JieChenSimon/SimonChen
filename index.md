@@ -4,7 +4,7 @@
 
 </div>
 
-Southeast University Ph.D candidate.
+Southeast University, Ph.D candidate.
 
 E-mail: jiechensimon@seu dot edu dot cn | Publications: [Google Scholar](https://scholar.google.com/citations?user=29wfilcAAAAJ&hl=zh-CN) | Code Hosting Platform: [GitHub](https://github.com/JiechenSimon) 
 Travel blog: [WordPress](https://idiotprofessorchen.wordpress.com/) | Tec Blog：[CSDN](https://drchen.blog.csdn.net/), over 434k views 
