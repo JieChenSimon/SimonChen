@@ -6,6 +6,11 @@
 
 Southeast University Ph.D candidate.
 
+### Support or Contact
+
+E-mail: jiechensimon@seu dot edu dot cn | Code Hosting Platform: [GitHub](https://github.com/JiechenSimon) | Travel blog: [WordPress](https://idiotprofessorchen.wordpress.com/)
+
+### SOME INTERESTING THINGS
 Specialize in NLP, GNN, DL, ML, Data Mining, Interpretability, BlockChain. 
 The ultimate goal of my research is to use mathematics to understand biological neural networks. My research have two stages: The first is to explore the relationship between the connection pattern of the deep learning model and biological neurons; The second is to use mathematics to explain the deep learning in order to make it interpretable. Besides, i am a reviewer of top conference: EMNLP2021, EMNLP2022, EACL2023, ICAIS2020.
 
@@ -29,9 +34,7 @@ The ultimate goal of my research is to use mathematics to understand biological 
 Tec Blog：[CSDN](https://drchen.blog.csdn.net/), my blog has over 434k views 
 
 
-### Support or Contact
 
-E-mail: jiechensimon@seu dot edu dot cn | Code Hosting Platform: [GitHub](https://github.com/JiechenSimon) | Travel blog: [WordPress](https://idiotprofessorchen.wordpress.com/)
 
 
 
