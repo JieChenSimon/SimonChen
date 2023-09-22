@@ -4,3 +4,4 @@ logo: /assets/img/selfie.png
 # show_downloads: true
 # google_analytics
 theme: jekyll-theme-minimal
+search : true
