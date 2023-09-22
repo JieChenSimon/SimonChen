@@ -6,8 +6,6 @@
 
 Southeast University Ph.D candidate.
 
-### Support or Contact
-
 E-mail: jiechensimon@seu dot edu dot cn | Code Hosting Platform: [GitHub](https://github.com/JiechenSimon) | Travel blog: [WordPress](https://idiotprofessorchen.wordpress.com/)
 
 ### SOME INTERESTING THINGS
