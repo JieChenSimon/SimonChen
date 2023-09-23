@@ -4,7 +4,7 @@ logo: /assets/img/selfie.png
 # show_downloads: true
 # google_analytics
 # theme: jekyll-theme-minimal
-theme: yaoyao-liu/minimal-light
+remote_theme: yaoyao-liu/minimal-light
 search : true
 minimal_mistakes_skin: "contrast" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 font: "Serif"
