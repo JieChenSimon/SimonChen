@@ -6,3 +6,4 @@ logo: /assets/img/selfie.png
 theme: jekyll-theme-minimal
 search : true
 minimal_mistakes_skin: "contrast" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+font: "Serif"
