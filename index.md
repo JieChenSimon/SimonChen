@@ -15,15 +15,17 @@ The ultimate goal of my research is to use mathematics to understand biological 
 
 
 ### MY Publications
+- 2024: Yifan Xu, Liangmin Wang, **Jie Chen**, Qian Zhou. Tor Trace in Images: A Novel Multi-tab Website Fingerprinting Attack with Object Detection, The Computer Journal, CCF-B.
+- 2023: Wanning Bao, Liangmin Wang, **Jie Chen**. A Lightweight Locally Repairable Code-based Storage Architecture for Blockchains, 2022 IEEE Smartworld, Ubiquitous Intelligence & Computing, Scalable Computing & Communications, Digital Twin, Privacy Computing, Metaverse, Autonomous & Trusted Vehicles.
+- 2023: **Jie** **Chen,** X Xuefeng, VS Sheng, C Zhiming. Randomly Wired Graph Neural Network for Chinese NER， Expert Systems with Applications, SCI- Q1.
 - 2022：**Jie** **Chen**, Jiabao Xu, X Xuefeng, VS Sheng, C Zhiming. Interpreting Randomly Wired Graph Models for Chinese NER, CMES.
 - 2022：刘杭, 殷歆, **陈杰**, 罗恒. 基于模型融合的多维时间序列预测,计算机工程(北大核心, CSCD).
-- 2021: **Jie** **Chen,** X Xuefeng, VS Sheng, C Zhiming. Randomly Wired Graph Neural Network for Chinese NER， IEEE/ACM Transactions on Audio, Speech and Language Processing, SCI- Q1.
 - 2022: JiaBao Xu, X Xuefeng, **Jie** **Chen**,  VS Sheng, C Zhiming. Development and Application of Electronic Health Records Based on Deep Learning. Applied Sciences. SCI-Q2.
 - 2021: ZhaiYuan Cai, **Jie** **Chen**, X Xuefeng, VS Sheng, C Zhiming. Relational Semantic Entity Recognition of Electronic Medical Record. 苏州科技大学学报 (自然科学版), 2021. 
 - 2020: **Jie** **Chen**, X Xuefeng, P Zhou, VS Sheng, C Zhiming. ALBERT-based Named Entity Recognition of Chinese Medical Records (Journal of Nanjing Normal University.
 
 ### MY PROJECTS
-- 2021: Internship in [Huawei Inc.](https://www.huawei.com/en/corporate-information) to develop deep learning framework -- MindSpore. (Undergoing)
+- 2021: Internship in [Huawei Inc.](https://www.huawei.com/en/corporate-information) to develop deep learning framework -- MindSpore.
 - 2021: Work with Dr.Zheng on Textual Description for Visualization. (Undergoing)
 - 2019: Develop a Business Intelligence System based on Redash
 - 2019: Work with [Hikvision](https://www.hikvision.com/en/) and [Tencent](https://www.tencent.com/zh-cn) to develop Police Traffic Face Recognition System for SuZhou City
