@@ -13,8 +13,9 @@ search : true
 minimal_mistakes_skin: "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 # font: "Serif"
 
-header_links:
-  - title: "Home"
-    url: /
-  - title: "Publications"
-    url: /publications/
+header:
+  nav:
+    - title: "Home"
+      url: /
+    - title: "Publications"
+      url: /publications/
