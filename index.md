@@ -15,6 +15,7 @@ The ultimate goal of my research is to use mathematics to understand biological 
 
 
 ### MY Publications
+- 2025: another top tier journal paper is under review.
 - 2025: **Jie Chen**, Liangmin Wang, Huijuan Zhu, Victor S. Sheng. ”CLEP: A Novel Contrastive Learning Method for Evolutionary Reentrancy Vulnerability Detection”. In Proceedings of the AAAI conference on artificial intelligence, 2025. (Top tier conference, Acceptance rate:  23.4%, TBA) 
 - 2024: Yifan Xu, Liangmin Wang, **Jie Chen**, Qian Zhou. Tor Trace in Images: A Novel Multi-tab Website Fingerprinting Attack with Object Detection, The Computer Journal, CCF-B.
 - 2023: Wanning Bao, Liangmin Wang, **Jie Chen**. A Lightweight Locally Repairable Code-based Storage Architecture for Blockchains, 2022 IEEE Smartworld, Ubiquitous Intelligence & Computing, Scalable Computing & Communications, Digital Twin, Privacy Computing, Metaverse, Autonomous & Trusted Vehicles.
