@@ -10,5 +10,5 @@ plugins:
   - jekyll-include-cache
 # remote_theme: yaoyao-liu/minimal-light
 search : true
-minimal_mistakes_skin: "contrast" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 # font: "Serif"
