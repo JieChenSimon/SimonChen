@@ -1,30 +1,33 @@
-# title: SimonChen
-# logo: /assets/img/selfie.jpg
-# # description: Minimal is a theme for GitHub Pages.
-# # show_downloads: true
-# # google_analytics
-# # theme: jekyll-theme-minimal
-# # theme: jekyll-theme-cayman
-# remote_theme: mmistakes/minimal-mistakes
-# plugins:
-#   - jekyll-include-cache
-# # remote_theme: yaoyao-liu/minimal-light
-# search : true
-# minimal_mistakes_skin: "dirt" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-# # font: "Serif"
+# 网站基本信息
+title: Your Name
+description: Your personal website.
+logo: /assets/img/selfie.jpg # 替换为你的个人头像路径
 
-# header:
-#   navigation: # 引用 navigation.yml 中的 main 配置
-#     - name: main
-# 基本信息
-title: SimonChen
-logo: /assets/img/selfie.jpg
-remote_theme: yaoyao-liu/minimal-light # 使用 Minimal Light 主题
+# 使用 Minimal Light 主题
+remote_theme: yaoyao-liu/minimal-light
 plugins:
   - jekyll-include-cache
-search: true # 开启站点搜索
+  - jekyll-feed
+  - jekyll-sitemap
 
-# 页眉导航配置
+# 搜索功能
+search: true
+
+# 主题皮肤设置
+minimal_light_skin: "dark" # 可选: default, dark, solarized-dark, etc.
+
+# 主页左侧个人信息
+author:
+  name: Your Name
+  title: Ph.D. Student
+  affiliation: Your Affiliation
+  email: yourname@example.com
+  scholar: https://scholar.google.com/citations?user=YOUR_ID
+  github: https://github.com/yourgithub
+  linkedin: https://linkedin.com/in/yourlinkedin
+  cv: /files/Your_CV.pdf # 替换为你的 CV 链接
+
+# 导航栏
 header:
   navigation:
     - title: "Home"
@@ -34,23 +37,12 @@ header:
     - title: "About"
       url: /about/
 
-# 网站描述（可选）
-description: "Welcome to Simon Chen's personal website."
-author: 
-  name: "Simon Chen"
-  email: "your_email@example.com"
-
-# 主题皮肤设置
-minimal_light_skin: "default" # 可选皮肤: default, dark, solarized-dark, etc.
-
-# 社交媒体链接（可选）
-social:
-  - name: GitHub
-    icon: fab fa-github
-    url: https://github.com/your-github
-  - name: LinkedIn
-    icon: fab fa-linkedin
-    url: https://linkedin.com/in/your-linkedin
-  - name: Google Scholar
-    icon: fas fa-graduation-cap
-    url: https://scholar.google.com/citations?user=your-scholar-id
+# 页脚
+footer:
+  links:
+    - title: "GitHub"
+      url: https://github.com/yourgithub
+    - title: "Google Scholar"
+      url: https://scholar.google.com/citations?user=YOUR_ID
+    - title: "LinkedIn"
+      url: https://linkedin.com/in/yourlinkedin
