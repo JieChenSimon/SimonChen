@@ -1,8 +1,8 @@
 
-<div align="center">
+<!-- <div align="center">
     <img width="35%"  src="assets/img/catcoding.gif" alt="catcoding" />
 
-</div>
+</div> -->
 
 Southeast University, Ph.D candidate.
 

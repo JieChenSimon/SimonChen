@@ -1,18 +1,56 @@
+# title: SimonChen
+# logo: /assets/img/selfie.jpg
+# # description: Minimal is a theme for GitHub Pages.
+# # show_downloads: true
+# # google_analytics
+# # theme: jekyll-theme-minimal
+# # theme: jekyll-theme-cayman
+# remote_theme: mmistakes/minimal-mistakes
+# plugins:
+#   - jekyll-include-cache
+# # remote_theme: yaoyao-liu/minimal-light
+# search : true
+# minimal_mistakes_skin: "dirt" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+# # font: "Serif"
+
+# header:
+#   navigation: # 引用 navigation.yml 中的 main 配置
+#     - name: main
+# 基本信息
 title: SimonChen
 logo: /assets/img/selfie.jpg
-# description: Minimal is a theme for GitHub Pages.
-# show_downloads: true
-# google_analytics
-# theme: jekyll-theme-minimal
-# theme: jekyll-theme-cayman
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: yaoyao-liu/minimal-light # 使用 Minimal Light 主题
 plugins:
   - jekyll-include-cache
-# remote_theme: yaoyao-liu/minimal-light
-search : true
-minimal_mistakes_skin: "dirt" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-# font: "Serif"
+search: true # 开启站点搜索
 
+# 页眉导航配置
 header:
-  navigation: # 引用 navigation.yml 中的 main 配置
-    - name: main
+  navigation:
+    - title: "Home"
+      url: /
+    - title: "Publications"
+      url: /publications/
+    - title: "About"
+      url: /about/
+
+# 网站描述（可选）
+description: "Welcome to Simon Chen's personal website."
+author: 
+  name: "Simon Chen"
+  email: "your_email@example.com"
+
+# 主题皮肤设置
+minimal_light_skin: "default" # 可选皮肤: default, dark, solarized-dark, etc.
+
+# 社交媒体链接（可选）
+social:
+  - name: GitHub
+    icon: fab fa-github
+    url: https://github.com/your-github
+  - name: LinkedIn
+    icon: fab fa-linkedin
+    url: https://linkedin.com/in/your-linkedin
+  - name: Google Scholar
+    icon: fas fa-graduation-cap
+    url: https://scholar.google.com/citations?user=your-scholar-id
