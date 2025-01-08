@@ -14,8 +14,5 @@ minimal_mistakes_skin: "dark" # "default", "air", "aqua", "contrast", "dark", "d
 # font: "Serif"
 
 header:
-  nav:
-    - title: "Home"
-      url: /
-    - title: "Publications"
-      url: /publications/
+  navigation: # 引用 navigation.yml 中的 main 配置
+    - name: main
